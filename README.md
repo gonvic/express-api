@@ -10,6 +10,7 @@ npx nodemon
 
 
 ### Estrutura
+express-api/
 db  
 middlewares  
 models  
